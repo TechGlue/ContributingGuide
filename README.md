@@ -35,6 +35,7 @@ This tutorial will be focused on the command line variant of Git. If you have it
 
   <img src="images/Step 6 .png">
   <br>
+  <br>
   <img src="images/Step 7.png">
 
 </p><br> Go to your repo and above it you should see a buttone called compare & pull request. Click it and if everything looks good to you click create pull request. This will submit a request to merge your branch onto the main branch. Congrats You've made your first contribution!</p>
