@@ -1,6 +1,6 @@
 <h1> Getting started</h1>
 
-This tutorial will be focused in the command line variant of Git. If you have it installed already move on to the next section. For those who don't have Git installed click [here](https://git-scm.com/downloads " Download Link for the command line ver.").
+This tutorial will be focused on the command line variant of Git. If you have it installed already move on to the next section. For those who don't have Git installed click [here](https://git-scm.com/downloads " Download Link for the command line ver.").
 
 <h2> Tutorial</h2>
 
