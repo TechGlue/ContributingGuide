@@ -14,6 +14,7 @@ This tutorial will be focused on the command line variant of Git. If you have it
 
   <img src="images/Step 2.png">
   <br>
+  <br>
   <img src="images/Step 3.png">
 
 <p><br>git clone "remove this and insert link to repo here". For showcase purposes I'll be using a personal repo so my command will look like the picture above.</p>
