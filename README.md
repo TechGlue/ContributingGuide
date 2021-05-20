@@ -14,7 +14,7 @@ This tutorial will be focused on the command line variant of Git. If you have it
   ![url](images/clone.png)
   <br>
   <br>
-  
+
   ![step3](images/Step3.png)
 
 <br>git clone "remove this and insert link to repo here". For showcase purposes I'll be using a personal repo so my command will look like the picture above.
@@ -40,4 +40,9 @@ This tutorial will be focused on the command line variant of Git. If you have it
 
 Your pull will then get reviewed by the owner of the repository or any other authorized users in the repo. Once reviewed and accepted your changes should be displayed in whatever branch you pointed your changes to!
 
-<br>Congrats You've made your first contribution!
+Congrats, You've made your first contribution!<br>
+
+Not a fan of the command line? Check out some of my recommended visual git GUIs!<br>
+[Lazygit](https://github.com/jesseduffield/lazygit)<br>
+[GitKracken](https://www.gitkraken.com/)<br>
+
